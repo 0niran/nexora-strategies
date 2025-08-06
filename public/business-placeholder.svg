@@ -1,0 +1,9 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F3F4F6"/>
+  <rect x="100" y="100" width="600" height="400" rx="12" fill="#E5E7EB"/>
+  <path d="M400 250C400 216.863 426.863 190 460 190H540C573.137 190 600 216.863 600 250V350C600 383.137 573.137 410 540 410H460C426.863 410 400 383.137 400 350V250Z" fill="#9CA3AF"/>
+  <circle cx="250" cy="300" r="80" fill="#9CA3AF"/>
+  <rect x="150" y="320" width="300" height="120" rx="8" fill="#D1D5DB"/>
+  <text x="400" y="320" text-anchor="middle" fill="#6B7280" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="500">APEX Stratum Consulting</text>
+  <text x="400" y="350" text-anchor="middle" fill="#9CA3AF" font-family="system-ui, -apple-system, sans-serif" font-size="14">Professional Business Image</text>
+</svg>
